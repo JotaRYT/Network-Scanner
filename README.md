@@ -20,7 +20,7 @@ A Python-based network scanning tool that discovers devices on a local network a
 1. Clone this repository:
 
 ```sh
-git clone https://github.com/yourusername/network-scanner.git
+git clone https://github.com/JotaRYT/network-scanner.git
 cd network-scanner/src
 ```
 
